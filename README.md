@@ -3,7 +3,7 @@ Hello world!
 
 My name is Travis Zalesky, and this is my personal github page.
 
-I am an ecologist, and a mycologist currently working for Fungi Perfecti. You can check out my <a href=https://www.linkedin.com/in/travis-zalesky-5793b9262/>LinkedIn</a> profile or take a look at my ressume.
+I am an ecologist, and a mycologist currently working for Fungi Perfecti. You can check out my <a href=https://www.linkedin.com/in/travis-zalesky-5793b9262/>LinkedIn</a> profile or take a look at my <a href=https://github.com/travisz09/travisz09/blob/main/Travis_Zalesky_Printable_Spider_CV.pdf>resume</a>.
 
 </body>
 
