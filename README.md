@@ -3,7 +3,7 @@ Hello world!
 <br><br>
 My name is Travis Zalesky, and this is my personal github page.
 <br><br>
-I am an ecologist, and a mycologist with 10+ years of experience. You can check out my <a href=https://www.linkedin.com/in/travis-zalesky-5793b9262/>LinkedIn</a> profile or take a look at my <a href=https://github.com/travisz09/travisz09/blob/main/Travis_Zalesky_Printable_Spider_CV.pdf>resume</a>.
+I am an ecologist, and a mycologist with 10+ years of experience. You can check out my <a href=https://www.linkedin.com/in/travis-zalesky-5793b9262/>LinkedIn</a> profile or take a look at my <a href=https://github.com/travisz09/travisz09/blob/main/Travis_Zalesky_twentyoneseconds_CV.pdf>resume</a>.
 <br><br>
 I am interested in <em>Natural Resource Sciences</em> and <em>Data Science</em>. I am especially interested in combining these two fields, using big data to help manage resources, protect our environment, and inform environmental policy.
 <br><br>
