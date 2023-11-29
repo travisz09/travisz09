@@ -9,7 +9,7 @@ I am interested in <em>Natural Resource Sciences</em> and <em>Data Science</em>.
 <br><br>
 I have been collecting and analyzing ecological data for over a decade, and have specialized in use of R for data anaysis and figure generation. More recently I have also begun developing custom apps using the R shiny package. Additionally, I am trying to grow my coding skills in Python and JavaScript through use of <a href=https://www.freecodecamp.org/>freeCodeCamp</a> tutorials, you can view my certifications and projects <a href=https://www.freecodecamp.org/fcc9b9bb9b6-c7dd-422f-b22a-7f7c246d1985>here</a>, as well as certain other projects hosted in my <a href=https://github.com/travisz09?tab=repositories>github repository</a>. I am also excited to announce that I have recently been accepted into the <a href=https://gis.arizona.edu/>Masters of GIS</a> program at <a href=https://www.arizona.edu/>The University of Arizona</a>, beginning Fall 2023.
 <br><br>
-I hope to be able to share more of my original code, particularly in R, with the github comunity, and I would be happy to colaborate with anyone on ecologically focused data analysis.
+I hope to be able to share more of my original code, particularly in R, with the github community, and I would be happy to collaborate with anyone on ecologically focused data analysis.
 
 </body>
 
